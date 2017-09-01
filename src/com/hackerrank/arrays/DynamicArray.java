@@ -2,7 +2,7 @@ package com.hackerrank.arrays;
 
 import java.util.*;
 
-public class Solution {
+public class DynamicArray {
 
     public static void main(String[] args) {
         int lastAnswer = 0;
